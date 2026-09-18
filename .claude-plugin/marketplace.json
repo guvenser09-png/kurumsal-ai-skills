@@ -1,0 +1,16 @@
+{
+  "name": "kurumsal-ai-skills",
+  "owner": { "name": "guvenser09-png" },
+  "metadata": {
+    "description": "Beyaz yakali profesyoneller icin Turkce Claude skill'leri: yonetici sunumu, rapor ve yonetici ozeti."
+  },
+  "plugins": [
+    {
+      "name": "kurumsal-ai-skills",
+      "source": "./",
+      "description": "Turk kurumsal dunyasi icin sonuc odakli yonetim sunumu skill'i (kurumsal-sunum). Daha fazla skill eklenecek.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
