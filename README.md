@@ -4,6 +4,13 @@ Beyaz yakalı profesyoneller için Türkçe Claude skill'leri. Amaç basit: Clau
 
 Skill nedir? Claude'a belirli bir işi nasıl yapacağını anlatan bir talimat dosyası. Bir kez kurarsınız, ilgili istek geldiğinde Claude kendiliğinden devreye sokar. Kod bilmenize gerek yok.
 
+## Hemen indir
+
+[![kurumsal-sunum.skill dosyasını indir](https://img.shields.io/badge/%C4%B0ndir-kurumsal--sunum.skill-F47920?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guvenser09-png/kurumsal-ai-skills/releases/latest/download/kurumsal-sunum.skill)
+[![Claude Code ile kur](https://img.shields.io/badge/Claude_Code-marketplace_add-1F1F1F?style=for-the-badge)](https://github.com/guvenser09-png/kurumsal-ai-skills#claude-code)
+
+Tek tıkla indirin, claude.ai'de Ayarlar > Yetenekler > Skills bölümüne yükleyin. Kod yok, kurulum yok.
+
 ## Skill'ler
 
 | Skill | Ne yapar | Durum |
@@ -25,7 +32,7 @@ Skill nedir? Claude'a belirli bir işi nasıl yapacağını anlatan bir talimat 
 
 ### claude.ai (kod bilmeyenler için önerilen yol)
 
-1. Bu repodan `skills/kurumsal-sunum` klasörünü zip olarak indirin (veya Releases bölümündeki `.skill` dosyasını).
+1. Yukarıdaki turuncu "İndir" düğmesine basın; `kurumsal-sunum.skill` dosyası iner (her zaman son sürüm).
 2. claude.ai'de Ayarlar > Yetenekler (Capabilities) > Skills bölümüne gidin.
 3. Dosyayı yükleyin. Bundan sonra "yönetici sunumu hazırla" dediğiniz her sohbette skill devreye girer.
 
