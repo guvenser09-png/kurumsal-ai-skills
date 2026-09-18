@@ -1,5 +1,7 @@
 # Kurumsal AI Skills
 
+Hazırlayan: **Serdar Güven**, Ar-Ge Teknoloji Geliştirme Lideri (enerji sektörü, 15+ yıl). Sorular ve öneriler için LinkedIn üzerinden ulaşabilirsiniz.
+
 Beyaz yakalı profesyoneller için Türkçe Claude skill'leri. Amaç basit: Claude'a "yönetime sunum hazırla" dediğinizde çıkan şey Amerikan startup şablonu değil, Türk kurumsal dünyasında bir yöneticinin ciddiye alacağı bir sunum olsun.
 
 Skill nedir? Claude'a belirli bir işi nasıl yapacağını anlatan bir talimat dosyası. Bir kez kurarsınız, ilgili istek geldiğinde Claude kendiliğinden devreye sokar. Kod bilmenize gerek yok.
@@ -69,4 +71,4 @@ Bir slaytın iyi ya da kötü çıktığını gördüyseniz issue açın; hangi 
 
 ## Lisans
 
-MIT
+MIT. Serdar Güven, 2026.
