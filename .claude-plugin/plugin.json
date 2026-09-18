@@ -1,0 +1,7 @@
+{
+  "name": "kurumsal-ai-skills",
+  "version": "0.1.0",
+  "description": "Turk kurumsal dunyasi icin Claude skill'leri: yonetime sunulacak sonuc odakli sunumlar ve raporlar.",
+  "author": { "name": "guvenser09-png" },
+  "keywords": ["turkce", "kurumsal", "sunum", "rapor", "yonetim", "pptx"]
+}
