@@ -1,6 +1,9 @@
 {
   "name": "kurumsal-ai-skills",
-  "owner": { "name": "guvenser09-png" },
+  "owner": {
+    "name": "Serdar Güven",
+    "url": "https://github.com/guvenser09-png"
+  },
   "metadata": {
     "description": "Beyaz yakali profesyoneller icin Turkce Claude skill'leri: yonetici sunumu, rapor ve yonetici ozeti."
   },
